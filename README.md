@@ -2,4 +2,5 @@
 -	Plot ( Cumulative, pearson with trait, TUSKEY HSD)
 -	ContMap (Speciation rate visuals, linear regression,)
 -	PPA ( PPA )
--	PGLS 
+-	PGLS
+-	FISSE/essim (code to run FISSE and ESSIM) 
