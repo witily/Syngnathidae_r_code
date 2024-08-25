@@ -4,3 +4,4 @@
 -	PPA ( PPA )
 -	PGLS
 -	FISSE/essim (code to run FISSE and ESSIM) 
+- Tri start ( prepare the excel sheet) 
